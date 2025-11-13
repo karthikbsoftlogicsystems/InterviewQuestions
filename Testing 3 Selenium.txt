@@ -1,0 +1,206 @@
+You find a bug that appears only in Chrome, not in Firefox — how do you approach it?
+
+The login page loads slowly after deployment — what would you check first?
+
+A client reports that some users cannot log in — how do you reproduce it?
+
+You test a form submission; it’s working locally but not in production — what steps do you take?
+
+The “Submit” button becomes disabled randomly — how do you investigate?
+
+A dropdown list is empty for some users — what could be possible causes?
+
+The UI looks fine on your system but broken on others — what do you verify?
+
+How do you ensure CSS or UI defects are properly validated across devices?
+
+What would you test if the “Add to Cart” button doesn’t update the cart count?
+
+You find inconsistent currency formats on an e-commerce site — how do you log and prioritize it?
+
+After applying a coupon code, the total amount doesn’t update — how do you debug it?
+
+A form accepts invalid emails occasionally — how would you test for validation gaps?
+
+The logout button redirects to the wrong page — what would you verify in the bug report?
+
+An application crashes when a user uploads large files — what are your next steps?
+
+How would you test when data appears delayed after submission?
+
+You’re asked to test a new filtering feature with 100K records — how do you approach it?
+
+A defect cannot be reproduced on the developer’s system — how do you handle it?
+
+The application works fine on staging but fails on production — what checks do you perform?
+
+How do you verify that browser caching doesn’t cause outdated data display?
+
+You find that the URL redirects inconsistently — how would you log it?
+
+
+
+You must test a REST API without automation tools — how do you do it?
+
+API response time increases after a recent update — what steps do you take?
+
+How would you test an API that returns dynamic data each time?
+
+The API returns 500 Internal Server Error — what would you verify?
+
+API returns status 200 but wrong data — how do you report it?
+
+How do you verify that frontend and backend data match after integration?
+
+How do you test API error handling manually?
+
+You find missing headers in API responses — how do you document it?
+
+API authentication fails intermittently — what could be potential causes?
+
+How do you ensure API backward compatibility after a new release?
+
+You get incorrect response only under heavy load — what would you check?
+
+How do you verify pagination from an API?
+
+What is your approach to testing rate-limited APIs?
+
+The API endpoint changes — how do you ensure regression coverage?
+
+How would you test APIs in multiple environments efficiently?
+
+What would you do if JSON response structure changes without notice?
+
+How do you validate database updates triggered by an API call?
+
+How do you verify that API handles invalid tokens securely?
+
+You’re asked to verify a third-party API integration — how do you plan it?
+
+How do you simulate API failures or timeouts?
+
+
+
+How would you validate that a record was inserted correctly into the database?
+
+How do you verify that data is encrypted at rest or in transit?
+
+How do you ensure referential integrity after a migration?
+
+You notice duplicate data in reports — how do you investigate?
+
+How do you test triggers or stored procedures?
+
+A data field shows inconsistent formatting — how do you track the issue?
+
+How would you validate audit logs in the database?
+
+How do you test when a database column is removed in a new release?
+
+You need to verify data synchronization between two databases — how do you do it?
+
+How would you test ETL (Extract-Transform-Load) workflows manually?
+
+How do you verify that rollback occurs correctly after a transaction fails?
+
+How do you confirm that a batch job ran successfully?
+
+How do you test database constraints like unique keys and foreign keys?
+
+What would you test when new indexes are added for optimization?
+
+You find slow queries in testing — how do you report performance impact?
+
+How do you test archived data retrieval?
+
+You’re asked to verify data masking for sensitive fields — what’s your approach?
+
+How do you verify that deleted records are not visible anywhere in the UI?
+
+What SQL query would you use to verify data after updates?
+
+How do you ensure database changes don’t break existing functionality?
+
+
+
+How would you automate login for multiple user roles?
+
+You need to validate dynamic popups — what’s your Selenium approach?
+
+The element’s XPath keeps changing — how do you handle it?
+
+How do you verify file downloads without hard-coded paths?
+
+How do you handle browser notifications in Selenium?
+
+How would you verify an image is displayed correctly?
+
+How can you validate text inside a PDF using Selenium or Java?
+
+How do you deal with stale element reference exceptions?
+
+How would you retry a failed Selenium test automatically?
+
+How do you run Selenium tests in Docker?
+
+How do you validate UI layout consistency across browsers automatically?
+
+You need to test 1,000 URLs quickly — how would you automate it?
+
+How do you execute cross-browser testing using Selenium Grid?
+
+How do you implement soft asserts vs. hard asserts in TestNG?
+
+You need to validate logs during automation — how would you capture them?
+
+How do you integrate Selenium tests with Jenkins pipelines?
+
+How do you capture browser console errors in Selenium?
+
+How do you parameterize tests with data from Excel or CSV?
+
+How do you implement retry logic for flaky tests?
+
+How do you handle unexpected pop-ups during Selenium runs?
+
+
+How would you test a mobile app’s login feature manually?
+
+How do you ensure cross-device consistency for a mobile web app?
+
+How do you test when the app crashes intermittently on certain devices?
+
+How do you test an app’s offline functionality?
+
+How do you perform localization testing on mobile?
+
+How do you test push notifications manually?
+
+You find a bug in production reported by users — how do you trace it back?
+
+What would you do if your sprint testing is behind schedule?
+
+How do you ensure testing is complete for a user story?
+
+How do you test user stories without acceptance criteria?
+
+How do you work with developers during sprint testing?
+
+How do you track test coverage in Agile projects?
+
+How do you handle unplanned changes during a sprint?
+
+How do you ensure continuous testing with frequent builds?
+
+What metrics do you present in a sprint review?
+
+How do you perform sanity testing on every new build quickly?
+
+What is your strategy for regression testing in Agile?
+
+How do you ensure knowledge transfer between testers in a sprint team?
+
+How do you document test scenarios in Agile without formal test cases?
+
+How do you balance manual exploratory testing with automation coverage?
