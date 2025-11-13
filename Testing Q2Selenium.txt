@@ -1,0 +1,221 @@
+Basics of Selenium
+
+What is Selenium?
+
+What are the different components of Selenium?
+
+Explain the difference between Selenium IDE, RC, WebDriver, and Grid.
+
+Which programming languages are supported by Selenium?
+
+What are the limitations of Selenium?
+
+Can Selenium handle desktop applications?
+
+What browsers does Selenium support?
+
+What is a WebDriver in Selenium?
+
+What are locators in Selenium?
+
+List different types of locators available in Selenium.
+
+🔹 Locators & Elements
+
+How do you find elements in Selenium?
+
+What is the difference between findElement() and findElements()?
+
+What is XPath in Selenium?
+
+Difference between absolute and relative XPath.
+
+How do you handle dynamic elements in Selenium?
+
+What is CSS Selector, and how is it different from XPath?
+
+What are the advantages of using CSS selectors over XPath?
+
+How do you handle multiple elements with the same attributes?
+
+How can you check if an element is displayed, enabled, or selected?
+
+How do you perform mouse hover or right-click actions in Selenium?
+
+🔹 Synchronization & Waits
+
+What are the different types of waits in Selenium?
+
+What is implicit wait?
+
+What is explicit wait?
+
+What is fluent wait?
+
+When would you use Thread.sleep(), and why is it not recommended?
+
+How do you handle synchronization issues in Selenium?
+
+How do you wait for an element to be clickable?
+
+What is the difference between implicit and explicit wait?
+
+🔹 Frames, Alerts, and Windows
+
+How do you handle alerts in Selenium?
+
+How do you handle multiple windows in Selenium?
+
+How do you switch to a frame in Selenium?
+
+How do you return to the main page from a frame?
+
+How do you handle file upload and download in Selenium?
+
+How do you capture screenshots in Selenium?
+
+🔹 Advanced Concepts
+
+How do you handle dropdowns in Selenium?
+
+What is the Select class used for?
+
+How do you handle drag and drop in Selenium?
+
+How can you scroll a web page using Selenium?
+
+How do you perform data-driven testing with Selenium?
+
+What is Page Object Model (POM)?
+
+What are the advantages of using POM?
+
+What is Page Factory?
+
+What is TestNG, and why is it used with Selenium?
+
+What are annotations in TestNG?
+
+What is the difference between @BeforeMethod and @BeforeClass?
+
+How do you run Selenium tests in parallel?
+
+What is Selenium Grid?
+
+How do you handle SSL certificates in Selenium?
+
+How do you integrate Selenium with CI/CD tools like Jenkins?
+
+How would you automate a login and logout scenario using Selenium?
+
+🧩 Part 2: Scenario-Based Manual & Automation Testing Questions (51–100)
+🔹 Application Testing Scenarios
+
+How would you test a login page manually?
+
+What are different test cases for testing a signup form?
+
+How do you test a search functionality?
+
+How would you test a password reset feature?
+
+What are key scenarios to test an e-commerce checkout page?
+
+How do you test file upload functionality?
+
+How would you test an API integration without automation?
+
+How do you test a form with multiple mandatory fields?
+
+What scenarios would you test for a “Forgot Password” feature?
+
+How would you test pagination on a data table?
+
+🔹 Error & Validation Scenarios
+
+How would you test input field validations (like email, phone number)?
+
+What test scenarios would you write for a payment gateway?
+
+How would you test an application when the backend is down?
+
+What would you test for a login button that sometimes fails to respond?
+
+How do you test an application that supports multiple browsers?
+
+How would you test a responsive website across devices?
+
+What would you do if the test data is not ready but testing has to start?
+
+How would you handle inconsistent test results?
+
+How would you test a multilingual application?
+
+How would you test a mobile web application using Selenium?
+
+🔹 Team & Process Scenarios
+
+How do you handle a defect that a developer refuses to fix?
+
+What would you do if you find a critical bug just before release?
+
+How do you handle a situation where requirements keep changing?
+
+How do you test a new feature without impacting existing functionality?
+
+How do you communicate testing progress to your team?
+
+What would you do if your test cases are outdated?
+
+How do you manage testing when deadlines are tight?
+
+How do you prioritize your testing when multiple features are pending?
+
+What would you do if you missed a defect in production?
+
+How do you ensure test coverage is complete?
+
+🔹 Automation-Specific Scenarios
+
+How would you automate a data-driven login test with multiple credentials?
+
+How do you handle dynamic elements like changing IDs in Selenium?
+
+How do you verify broken links on a web page using Selenium?
+
+How do you test a web page where elements appear after AJAX calls?
+
+How would you verify the download of a PDF file in Selenium?
+
+How do you validate a tooltip text?
+
+How would you automate CAPTCHA handling?
+
+How do you handle file upload dialogs that are OS-based?
+
+How do you test an iframe embedded in a web page?
+
+How do you ensure your Selenium scripts are maintainable?
+
+🔹 Performance & Usability Scenarios
+
+How do you check page load performance manually?
+
+How would you test an application under high user load without automation tools?
+
+How do you ensure usability testing is covered?
+
+What are scenarios to test accessibility features?
+
+How would you verify that UI elements are aligned correctly?
+
+How do you validate that form submission results are displayed correctly?
+
+How do you test a multi-user system where data is shared?
+
+How would you verify database updates after a user action?
+
+What would you test if an application’s response time is too slow?
+
+How would you design test scenarios for a new feature without documentation?
+

@@ -1,0 +1,407 @@
+Section 1: 
+
+What is manual testing?
+
+Why is manual testing important even when automation exists?
+
+What is the difference between verification and validation?
+
+What are the different levels of testing?
+
+Explain the difference between functional and non-functional testing.
+
+What is a test case?
+
+What are the attributes of a good test case?
+
+What is the purpose of a test plan?
+
+What is exploratory testing?
+
+Define smoke testing.
+
+What is sanity testing?
+
+Explain regression testing.
+
+What is re-testing?
+
+What is the difference between regression and re-testing?
+
+What is user acceptance testing (UAT)?
+
+What are entry and exit criteria in testing?
+
+What is ad-hoc testing?
+
+What is test coverage?
+
+What are positive and negative test cases?
+
+What is end-to-end testing?
+
+🧱 Section 2: SDLC & STLC (21–40)
+
+What is SDLC?
+
+What are the phases of SDLC?
+
+What is STLC?
+
+Explain the phases of STLC.
+
+What are the deliverables of STLC?
+
+How does the testing phase fit in SDLC?
+
+What is the role of QA in SDLC?
+
+What documents are prepared during STLC?
+
+What is a test scenario?
+
+What is the difference between a test case and a test scenario?
+
+What is traceability matrix (RTM)?
+
+What is the purpose of RTM?
+
+Who prepares the test plan?
+
+What does a test plan typically include?
+
+What is test data?
+
+What is the importance of maintaining test data?
+
+How do you prioritize test cases?
+
+What is defect density?
+
+What are test metrics?
+
+What is baseline testing?
+
+🧠 Section 3: Bug/Defect Management (41–60)
+
+What is a defect?
+
+What is the difference between defect, error, and failure?
+
+What is the defect life cycle?
+
+What are common defect statuses?
+
+Who can change the status of a defect?
+
+What is defect severity?
+
+What is defect priority?
+
+What is the difference between severity and priority?
+
+How do you log a defect?
+
+What information should a defect report contain?
+
+What is a duplicate defect?
+
+What is defect leakage?
+
+What is defect clustering?
+
+What is defect triage?
+
+What tools are used for defect tracking?
+
+What is root cause analysis (RCA)?
+
+What is bug reconciliation?
+
+What are common causes of software defects?
+
+What is deferred or postponed defect?
+
+How do you handle a disagreement with a developer about a bug?
+
+⚙️ Section 4: Test Design & Techniques (61–80)
+
+What are black-box testing techniques?
+
+What are white-box testing techniques?
+
+Explain equivalence partitioning.
+
+Explain boundary value analysis.
+
+What is decision table testing?
+
+What is state transition testing?
+
+What is use case testing?
+
+What is pairwise testing?
+
+What is error guessing?
+
+What is exploratory testing?
+
+What is usability testing?
+
+What is performance testing?
+
+What is load testing?
+
+What is stress testing?
+
+What is scalability testing?
+
+What is security testing?
+
+What is compatibility testing?
+
+What is localization testing?
+
+What is internationalization testing?
+
+What is accessibility testing?
+
+🚀 Section 5: Agile, Tools & Practical Scenarios (81–100)
+
+What is Agile testing?
+
+What are the principles of Agile testing?
+
+What is the role of a tester in a Scrum team?
+
+What are user stories and acceptance criteria?
+
+What is sprint testing?
+
+What is continuous integration testing?
+
+What tools are used in manual testing?
+
+What is JIRA?
+
+What is TestRail used for?
+
+What are advantages and disadvantages of manual testing?
+
+How do you perform cross-browser testing manually?
+
+How do you handle changing requirements?
+
+How do you ensure complete test coverage?
+
+How do you prepare test data for testing?
+
+What are smoke and sanity testing differences?
+
+What is a blocker defect?
+
+How do you report testing progress?
+
+How do you test a login page manually?
+
+
+How do you test an e-commerce cart manually?
+What is test documentation?
+
+What are the main types of test documents?
+
+What is the purpose of a test summary report?
+
+What is a test incident report?
+
+What is the difference between test plan and test strategy?
+
+What are key components of a test strategy?
+
+What is a master test plan?
+
+What is configuration management in testing?
+
+Why is version control important for test artifacts?
+
+What is the difference between static and dynamic testing?
+
+What is a walkthrough?
+
+What is an inspection in testing?
+
+What is peer review?
+
+What are test deliverables at the end of a project?
+
+What is a test log?
+
+What is the purpose of maintaining test evidence?
+
+How do you track testing progress?
+
+What is test monitoring and control?
+
+What is a test closure activity?
+
+What are key metrics included in a test summary report?
+
+What is a test environment?
+
+What are components of a test environment?
+
+What is environment readiness?
+
+What is test bed?
+
+What is a staging environment?
+
+How do you set up a test environment?
+
+What challenges can occur in test environment setup?
+
+What is environment configuration?
+
+What is test environment management?
+
+What is test data management?
+
+How do you create test data manually?
+
+What are techniques for generating test data?
+
+What is data masking?
+
+What is data migration testing?
+
+What is database testing?
+
+What types of testing can be performed on a database?
+
+What SQL queries are commonly used in testing?
+
+How do you verify data integrity after migration?
+
+What is backup and restore testing?
+
+What are common test data challenges?
+
+What is alpha testing?
+
+What is beta testing?
+
+What is pilot testing?
+
+What is production verification testing (PVT)?
+
+What is A/B testing?
+
+What is parallel testing?
+
+What is recovery testing?
+
+What is installation testing?
+
+What is configuration testing?
+
+What is mutation testing?
+
+What is comparison testing?
+
+What is compliance testing?
+
+What is conformance testing?
+
+What is reliability testing?
+
+What is maintainability testing?
+
+What is interoperability testing?
+
+What is error handling testing?
+
+What is exception testing?
+
+What is monkey testing?
+
+What is gorilla testing?
+
+What are domain-specific test cases?
+
+What is banking domain testing?
+
+What are key features to test in a banking application?
+
+What is insurance domain testing?
+
+What is healthcare domain testing?
+
+What is e-commerce domain testing?
+
+What is telecom domain testing?
+
+What is ERP testing?
+
+What is CRM testing?
+
+What is mobile app testing?
+
+What are challenges in mobile testing?
+
+What is responsive testing?
+
+What is API testing?
+
+What is integration testing?
+
+What are integration testing approaches?
+
+What is system integration testing (SIT)?
+
+What is interface testing?
+
+What is file transfer testing?
+
+What is batch testing?
+
+What is cloud testing?
+How do you test when requirements are incomplete?
+
+How do you test when there are no written requirements?
+
+How do you test an application with frequent changes?
+
+What would you do if you find a defect late in production?
+
+How do you handle developer disagreements about bugs?
+
+What would you do if the deadline is near but testing is incomplete?
+
+How do you prioritize test cases under time constraints?
+
+How do you estimate testing effort?
+
+How do you deal with flaky or inconsistent bugs?
+
+What would you do if the build is unstable?
+
+How do you communicate testing status to stakeholders?
+
+What metrics do you share in daily status reports?
+
+How do you ensure quality when working in Agile sprints?
+
+How do you test a product with multiple languages supported?
+
+What do you do when a critical defect is not reproducible?
+
+How do you approach testing a third-party integration?
+
+How do you test when documentation is unavailable?
+
+How do you test a system with frequent data updates?
+
+What is your approach to exploratory testing?
+
+How do you ensure lessons learned are applied in the next release?
+
